@@ -20,21 +20,21 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94786746412']
-global.premium = ['94786746412']
-global.ownernomer = '94786746412'
-global.ownername = 'Ishan Sandeepa'
-global.botname = 'I Am 💝❄D͎A͎R͎K͎ I̟S̟H̟U̟ ❄️💝'
-global.footer = '©𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- 𝘐𝘴𝘩𝘢𝘯 𝘚𝘢𝘯𝘥𝘦𝘦𝘱𝘢.'
+global.owner = ['94788501190']
+global.premium = ['94788501190']
+global.ownernomer = '94788501190'
+global.ownername = 'Adeesha'
+global.botname = 'I Am ꪶ💓𝗔𝗗𝗘𝗘𝗦𝗛𝗔𝗬𝗔💓ꫂ🏴࿐'
+global.footer = '©𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:-ꪶ💓𝗔𝗗𝗘𝗘𝗦𝗛𝗔𝗬𝗔💓ꫂ🏴࿐'
 global.ig = 'Ishan Sandeepa'
 global.region = 'Sri Lanka'
 global.sc = 'https://m.facebook.com/GamingNethuwa/'
 global.myweb = 'https://www.youtube.com/c/SinhanadaMusicRemix'
-global.packname = '𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- 𝘐𝘴𝘩𝘢𝘯 𝘚𝘢𝘯𝘥𝘦𝘦𝘱𝘢'
+global.packname = '𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:-ꪶ💓𝗔𝗗𝗘𝗘𝗦𝗛𝗔𝗬𝗔💓ꫂ🏴࿐'
 global.author = '𝘊𝘳𝘦𝘢𝘵𝘦𝘥 𝘉𝘺:- 𝘐𝘴𝘩𝘢𝘯 𝘚𝘢𝘯𝘥𝘦𝘦𝘱𝘢'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
-global.sp = '⭔'
+global.sp = '💓'
 global.mess = {
     success: 'Done ✓',
     admin: 'උබට බෑ බං ඇඩ්මින්ට විතරයි පුලුවන්!',
